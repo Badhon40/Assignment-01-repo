@@ -180,3 +180,36 @@ span{
 .flower-03{
     height: 300px;
 }
+/*footer part*/
+footer{
+    margin-top: 100px;
+    height: 50vh;
+    background: #000;
+    color: #FFF;
+    align-items: center;
+    text-align: center;
+    
+    
+    
+}
+.story02{
+    color: rgba(255, 255, 255, 0.90);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-top: 10px;
+}
+.note{
+    color: rgba(255, 255, 255, 0.40);
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 10px;
+}
+.last-part{
+    padding: 80px;
+}
