@@ -213,3 +213,32 @@ footer{
 .last-part{
     padding: 80px;
 }
+/*5th page*/
+.menu{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.flower-04{
+    width: 220px;
+   height: 250px;
+}
+/*6th page*/
+.show-cashing{
+    border-radius: 8px;
+    background-image: url('\elements\rectangle 9.png');
+    margin: 60px 150px;
+    padding-bottom: 40px;
+}
+form{
+    text-align: center;
+  }
+  form input[type="email"] {
+      padding: 16px 0px;
+      width: 40%;
+      font: 600;
+      background:pink;
+      border-radius: 5px;
+      border:0px;
+      text-align: center;
+  }
